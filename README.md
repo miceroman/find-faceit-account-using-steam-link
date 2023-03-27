@@ -2,9 +2,12 @@
 
 <h3>Parser for websites <a href= faceitfinder.com> Faceitfinder </a> and <a href = faceit.com> FaceIT </a> to get information about the player and his FaceIT CS:GO account.</h3>
 
+
+
 ___The project was created to simplify life.___
 
-<h3> 
+<h1> DOWNLOAD the ".exe" file the latest version:   <a href = "https://github.com/miceroman/find-faceit-account-using-steam-link/releases/download/v1.0/Find.FaceIT.account.using.the.Steam.profile.link.v1.0.rar"> *click here* </a> </h1>
+
 
 ---
 
