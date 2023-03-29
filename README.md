@@ -11,6 +11,11 @@ ___The project was created to simplify life.___
 
 ---
 
+<h2>HOW TO USE</h2>
+Unpack the archive at any convenient location, then run Find FaceIT account v2.0.exe
+
+![image](https://user-images.githubusercontent.com/76202940/228647610-34c50503-2b32-47ef-9c10-60bdd2710fff.png)
+
 <h2>Required libraries</h2>
 PIP is a package management system used to install and manage software packages/libraries written in Python.   
 
