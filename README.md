@@ -1,4 +1,4 @@
-<h1> Find FaceIT account using the Steam profile link </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF9D2B&width=900&lines=Find+FaceIT+account+using+the+Steam+profile+link)](https://git.io/typing-svg)
 
 <h3>Parser for websites <a href= faceitfinder.com> Faceitfinder </a> and <a href = faceit.com> FaceIT </a> to get information about the player and his FaceIT CS:GO account.</h3>
 
@@ -46,4 +46,5 @@ The Pathlib module in Python simplifies working with files and folders. It is av
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFE809&width=300&lines=pls+star+%E2%AD%90)](https://git.io/typing-svg)
 
