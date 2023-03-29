@@ -3,18 +3,18 @@
 <h3>Parser for websites <a href= faceitfinder.com> Faceitfinder </a> and <a href = faceit.com> FaceIT </a> to get information about the player and his FaceIT CS:GO account.</h3>
 
 
-
-___The project was created to simplify life.___
-
-<h1> DOWNLOAD the ".exe" file the latest version:   <a href = "https://github.com/miceroman/find-faceit-account-using-steam-link/releases/download/v2.0/Find.FaceIT.account.using.the.Steam.profile.link.v2.0.rar"> *click here* </a> </h1>
+<h1> DOWNLOAD the latest version:   <a href = "https://github.com/miceroman/find-faceit-account-using-steam-link/releases/download/v2.0/Find.FaceIT.account.using.the.Steam.profile.link.v2.0.rar"> *click* </a> </h1>
 
 
 ---
 
-<h2>HOW TO USE</h2>
+<h2>How to run</h2>
 Unpack the archive at any convenient location, then run Find FaceIT account v2.0.exe
 
+
 ![image](https://user-images.githubusercontent.com/76202940/228647610-34c50503-2b32-47ef-9c10-60bdd2710fff.png)
+
+
 
 <h2>Required libraries</h2>
 PIP is a package management system used to install and manage software packages/libraries written in Python.   
