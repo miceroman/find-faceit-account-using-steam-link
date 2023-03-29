@@ -35,21 +35,15 @@ pip install bs4
 ```
 This is a dummy package managed by the developer of Beautiful Soup to prevent name squatting. The official name of PyPI’s Beautiful Soup Python package is beautifulsoup4. This package ensures that if you type ```pip install bs4``` by mistake you will end up with Beautiful Soup
 
+```
+pip install pathlib
+```
+Pathlib - path manipulation, creation and deletion of folders and files.
+The Pathlib module in Python simplifies working with files and folders. It is available in Python 3.4 and later. Pathlib combines the best of the Python filesystem modules - os, os.path, glob and so on.
+
 
 <h3> <a href="https://www.geeksforgeeks.org/how-to-install-pip-on-windows/"> How to install pip </a> </h3>
 
 ---
 
 
-<h2> Making an *.exe file </h2>
-
-
-```
-pip install pyinstaller
-```
-
-PyInstaller bundles a Python application and all its dependencies into a single package. The user can run the packaged app without installing a Python interpreter or any modules. 
-
-```
-pyinstaller -F main.py
-```
